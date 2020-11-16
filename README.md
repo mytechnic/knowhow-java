@@ -45,3 +45,6 @@
   * 인코딩
   
 * 애플리케이션 Graceful Shutdown
+
+* 단위테스트, TDD, BDD
+
