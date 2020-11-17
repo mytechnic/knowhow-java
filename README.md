@@ -50,3 +50,5 @@
 
 * http request validation 처리 고민
 
+* 오류메시지 (비지니스, 시스템)
+
