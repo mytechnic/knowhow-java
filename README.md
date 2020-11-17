@@ -48,3 +48,5 @@
 
 * 단위테스트, TDD, BDD
 
+* http request validation 처리 고민
+
